@@ -1,0 +1,17 @@
+# OS junk
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary and editor files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Obsidian machine-specific workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/cache/**
